@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAB3dwAAAAAAAAcAAAAAAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAHAAAAAAAAcAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAABwAAAAAAAAAHAAAAAAAAB3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "highlight"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
